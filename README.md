@@ -18,10 +18,12 @@ Model comparison :
 
 Best performing model (1D-CNN BiLSTM):
 
+<img width="283" alt="Screenshot 2024-09-02 at 2 00 22 PM" src="https://github.com/user-attachments/assets/57949f0e-3209-4759-b021-7802ac171d5b">
+
+
+
 
 
 <img width="392" alt="Screenshot 2024-09-02 at 2 00 09 PM" src="https://github.com/user-attachments/assets/9692497a-f8c8-4edc-9a61-70b636459105">
 
-
-<img width="283" alt="Screenshot 2024-09-02 at 2 00 22 PM" src="https://github.com/user-attachments/assets/57949f0e-3209-4759-b021-7802ac171d5b">
 
